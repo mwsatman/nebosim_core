@@ -13,4 +13,4 @@ Note that subtree is another alternative, but I prefer submodule better.
 
 Tutorial on git submodule: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
-
+    git submodule add git@github.com:mwsatman/nebosim_core.git
